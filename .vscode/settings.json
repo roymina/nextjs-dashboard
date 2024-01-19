@@ -1,3 +1,10 @@
 {
-  "typescript.tsdk": "node_modules\\typescript\\lib"
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#FF0000",
+    "terminalCursor.foreground": "#FF0000",
+    "activityBar.background": "#211968",
+    "titleBar.activeBackground": "#2E2391",
+    "titleBar.activeForeground": "#FBFAFE"
+  }
 }
